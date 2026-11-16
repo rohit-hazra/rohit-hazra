@@ -291,51 +291,25 @@ December 2025 – January 2026
 
 
 
-<!-- ================= GITHUB ANALYTICS ================= -->
 
-<h2 align="center">📊 GitHub Analytics & Activity</h2>
+<!-- ================= GITHUB STATS ================= -->
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<!-- Contribution Graph -->
+<a href="https://github.com/rohit-hazra">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-hazra&bg_color=0D1117&color=00D4FF&line=BD93F9&point=FF6B9D&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 
-<br/><br/>
 
-<!-- Contribution Streak -->
+<img width="75%" src="https://streak-stats.demolab.com?user=rohit-hazra&theme=tokyonight&hide_border=true&background=0D1117&ring=BD93F9&fire=FF6B9D&currStreakLabel=00D4FF" alt="GitHub Streak"/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=rohit-hazra&theme=tokyonight&hide_border=true&background=0D1117&ring=BD93F9&fire=FF6B9D&currStreakLabel=00D4FF" />
-
-<br/><br/>
-
-<!-- Language Distribution -->
-
-<h3>💻 Language Distribution</h3>
-
-<img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohit-hazra&theme=tokyonight" />
-
-<img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohit-hazra&theme=tokyonight" />
-
-<br/><br/>
-
-<!-- Profile Details -->
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohit-hazra&theme=tokyonight" />
+</a>
 
 </div>
 
 ---
 
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rohit-hazra&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
-
-</div>
-
----
 
 
 
