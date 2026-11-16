@@ -30,11 +30,14 @@
 
 ---
 
+
 <!-- ================= ABOUT ME ================= -->
 
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> About Me
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
+<table>
+<tr>
+<td width="65%" valign="top">
 
 Hey! I'm **Rohit Hazra**, a Computer Science and Engineering student and aspiring Full Stack Developer from Odisha, India.
 
@@ -47,7 +50,15 @@ I enjoy designing and developing web applications that combine attractive interf
 - 🌱 Continuously learning new technologies
 - 🤝 Interested in collaboration and innovative projects
 
-<br clear="right"/>
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Coding GIF"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -259,7 +270,7 @@ My personal portfolio showcasing my skills, projects, and development journey.
 
 Summer Research / Engineering Intern
 
-May 2026 – July 2026
+Jun 2026 – July 2026
 
 </td>
 </tr>
@@ -278,6 +289,7 @@ December 2025 – January 2026
 
 ---
 
+
 <!-- ================= GITHUB STATS ================= -->
 
 ## 📊 GitHub Analytics
@@ -286,19 +298,20 @@ December 2025 – January 2026
 
 <a href="https://github.com/rohit-hazra">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rohit-hazra&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=00D4FF&icon_color=BD93F9"/>
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rohit-hazra&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=00D4FF&icon_color=BD93F9" alt="GitHub Stats"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-hazra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF"/>
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rohit-hazra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=rohit-hazra&theme=tokyonight&hide_border=true&background=0D1117&ring=BD93F9&fire=FF6B9D&currStreakLabel=00D4FF"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=rohit-hazra&theme=tokyonight&hide_border=true&background=0D1117&ring=BD93F9&fire=FF6B9D&currStreakLabel=00D4FF" alt="GitHub Streak"/>
 
 </a>
 
 </div>
 
 ---
+
 
 <!-- ================= CONTRIBUTION GRAPH ================= -->
 
