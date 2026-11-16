@@ -1,60 +1,57 @@
 
-<!-- ================= ANIMATED HEADER ================= -->
+<!-- ===================== HEADER ===================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00D4FF&height=220&section=header&text=ROHIT%20HAZRA&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=FULL%20STACK%20DEVELOPER%20%7C%20MERN%20STACK%20DEVELOPER&descAlignY=58&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5CFF,50:2563EB,100:06B6D4&height=210&section=header&text=ROHIT%20HAZRA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20MERN%20STACK%20DEVELOPER&descAlignY=58&descSize=17&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Hey+there!+Welcome+to+my+GitHub+%F0%9F%91%8B;Full+Stack+Web+Developer;Building+Modern+Web+Experiences;Turning+Ideas+Into+Real+Applications;Always+Learning+%26+Building!" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Real+Applications;Full+Stack+Web+Developer;MERN+Stack+%7C+Frontend+%7C+Backend;Always+Learning+and+Building+Something+New" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://github.com/rohit-hazra">
-<img src="https://komarev.com/ghpvc/?username=rohit-hazra&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+<a href="https://portfolio-six-gilt-m971jn1qu5.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-
-<a href="https://github.com/rohit-hazra?tab=followers">
-<img src="https://img.shields.io/github/followers/rohit-hazra?label=FOLLOWERS&style=for-the-badge&color=0e75b6"/>
+<a href="https://github.com/rohit-hazra">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/rohit-hazra-3b9615317/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/rohit-hazra">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/rohit-hazra-3b9615317/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=rohit-hazra&label=PROFILE%20VIEWS&color=6A5CFF&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/rohit-hazra?label=FOLLOWERS&style=for-the-badge&color=06B6D4" />
 
 </div>
 
 ---
 
+<!-- ===================== ABOUT ME ===================== -->
 
-<!-- ================= ABOUT ME ================= -->
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> About Me
+## 👨‍💻 About Me
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="62%" valign="center">
 
-Hey! I'm **Rohit Hazra**, a Computer Science and Engineering student and aspiring Full Stack Developer from Odisha, India.
+Hi! I'm **Rohit Hazra**, a Computer Science and Engineering student passionate about building modern, responsive, and user-friendly web applications.
 
-I enjoy designing and developing web applications that combine attractive interfaces with practical functionality.
+- 🎓 B.Tech in Computer Science & Engineering (2023–2027)
+- 💻 Focused on Full Stack Web Development
+- 🚀 Building applications using the MERN stack
+- 🌱 Exploring new technologies and improving my development skills
+- 🤝 Interested in collaborating on meaningful software projects
 
-- 🎓 B.Tech CSE Student at BCET (BPUT)
-- 💻 Focused on MERN Stack Development
-- 🚀 Building modern and responsive web applications
-- ⚡ Exploring AI-powered application development
-- 🌱 Continuously learning new technologies
-- 🤝 Interested in collaboration and innovative projects
+**🌐 Portfolio:** [Explore My Portfolio](https://portfolio-six-gilt-m971jn1qu5.vercel.app/)
+
+**📍 Location:** Odisha, India
 
 </td>
+<td width="38%" align="center" valign="center">
 
-<td width="35%" align="center" valign="middle">
-
-<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Coding GIF"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer coding animation"/>
 
 </td>
 </tr>
@@ -62,41 +59,33 @@ I enjoy designing and developing web applications that combine attractive interf
 
 ---
 
-<!-- ================= TECH STACK ================= -->
+<!-- ===================== TECH STACK ===================== -->
 
-## 💻 Tech Stack & Technologies
+## 🛠️ Technologies & Tools
 
 ### Frontend Development
 
-<div align="center">
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite&theme=dark" />
+### Backend & Database
 
-</div>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,fastapi" />
+</p>
 
-### Backend Development & Database
+### Development Tools
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,fastapi&theme=dark" />
-
-</div>
-
-### Tools & Development Environment
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark" />
-
-</div>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel" />
+</p>
 
 ---
 
-<!-- ================= PROJECTS ================= -->
+<!-- ===================== PROJECTS ===================== -->
 
 ## 🚀 Featured Projects
-
-<div align="center">
 
 <table>
 <tr>
@@ -104,47 +93,45 @@ I enjoy designing and developing web applications that combine attractive interf
 
 <h3 align="center">🧠 MindLens AI</h3>
 
-<div align="center">
+<p align="center">
+A context-aware text analysis application that provides explainable results through an interactive web interface.
+</p>
 
-An AI-powered web application for context-aware text analysis with explainable results.
-
-<br/><br/>
-
+<p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+</p>
 
-<br/><br/>
-
-<a href="https://github.com/rohit-hazra/MindLensAI">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-6A11CB?style=for-the-badge&logo=github&logoColor=white"/>
+<p align="center">
+<a href="https://github.com/rohit-hazra/MindLens-AI">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
+</p>
 
-</div>
 </td>
-
 <td width="50%" valign="top">
 
 <h3 align="center">📄 ResumeForge</h3>
 
-<div align="center">
+<p align="center">
+An AI-powered resume builder that helps users create and customize professional resumes through an intuitive interface.
+</p>
 
-An AI-powered resume builder designed to help users create professional resumes.
-
-<br/><br/>
-
+<p align="center">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+</p>
 
-<br/><br/>
-
+<p align="center">
 <a href="https://github.com/rohit-hazra/ResumeForge">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-2575FC?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
+</p>
 
-</div>
 </td>
 </tr>
 
@@ -153,46 +140,44 @@ An AI-powered resume builder designed to help users create professional resumes.
 
 <h3 align="center">💰 ExpenseFlow</h3>
 
-<div align="center">
+<p align="center">
+A personal expense management application for tracking transactions and understanding spending patterns through visual reports.
+</p>
 
-A modern expense management application for tracking income, expenses, and financial activities.
-
-<br/><br/>
-
+<p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white"/>
+</p>
 
-<br/><br/>
-
+<p align="center">
 <a href="https://github.com/rohit-hazra/ExpenseFlow">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00A6A6?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
+</p>
 
-</div>
 </td>
-
 <td width="50%" valign="top">
 
 <h3 align="center">🎯 HabitFlow</h3>
 
-<div align="center">
+<p align="center">
+A simple habit-tracking application designed to help users build consistency and monitor their daily progress.
+</p>
 
-A habit-tracking application that helps users build consistent routines and monitor their daily progress.
-
-<br/><br/>
-
+<p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white"/>
+</p>
 
-<br/><br/>
-
+<p align="center">
 <a href="https://github.com/rohit-hazra/HabitFlow">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-FF6384?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
+</p>
 
-</div>
 </td>
 </tr>
 
@@ -201,87 +186,75 @@ A habit-tracking application that helps users build consistent routines and moni
 
 <h3 align="center">📋 ResolveNow</h3>
 
-<div align="center">
+<p align="center">
+A complaint management system with user authentication, complaint tracking, status updates, and administrative features.
+</p>
 
-A digital complaint management platform with complaint tracking and administrative management.
-
-<br/><br/>
-
+<p align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+</p>
 
-<br/><br/>
-
+<p align="center">
 <a href="https://github.com/rohit-hazra/ResolveNow">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-6A11CB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
+</p>
 
-</div>
 </td>
-
 <td width="50%" valign="top">
 
 <h3 align="center">🌐 Personal Portfolio</h3>
 
-<div align="center">
+<p align="center">
+A personal portfolio website showcasing my skills, projects, experience, and development journey.
+</p>
 
-My personal portfolio showcasing my skills, projects, and development journey.
-
-<br/><br/>
-
+<p align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+</p>
 
-<br/><br/>
-
-<a href="https://github.com/rohit-hazra/Portfolio">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-2575FC?style=for-the-badge&logo=github&logoColor=white"/>
+<p align="center">
+<a href="https://portfolio-six-gilt-m971jn1qu5.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+<a href="https://github.com/rohit-hazra/Portfolio">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
-</div>
 </td>
 </tr>
 </table>
 
-</div>
-
-<div align="center">
-
-<a href="https://github.com/rohit-hazra?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
 ---
 
-<!-- ================= EXPERIENCE ================= -->
+<!-- ===================== EXPERIENCE ===================== -->
 
 ## 💼 Experience
 
 <table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
 **ITR – DRDO, Chandipur**
 
-Summer Research / Engineering Intern
+*Summer Research / Engineering Intern*
 
-Jun 2026 – July 2026
+📅 June 2026 – July 2026
 
 </td>
-</tr>
-<tr>
-<td>
+<td width="50%" valign="top">
 
 **Oasis Infobyte**
 
-Frontend Development Intern
+*Frontend Development Intern*
 
-December 2025 – January 2026
+📅 December 2025 – January 2026
 
 </td>
 </tr>
@@ -289,67 +262,48 @@ December 2025 – January 2026
 
 ---
 
-
-
-
-<!-- ================= GITHUB STATS ================= -->
+<!-- ===================== GITHUB ANALYTICS ===================== -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/rohit-hazra">
+<img width="65%" src="https://streak-stats.demolab.com?user=rohit-hazra&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=06B6D4&currStreakLabel=22D3EE" alt="GitHub Streak Stats"/>
 
+<br/><br/>
 
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-hazra&bg_color=0D1117&color=22D3EE&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="GitHub Contribution Graph"/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=rohit-hazra&theme=tokyonight&hide_border=true&background=0D1117&ring=BD93F9&fire=FF6B9D&currStreakLabel=00D4FF" alt="GitHub Streak"/>
+</div>
 
+---
+
+<!-- ===================== CONNECT ===================== -->
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always interested in connecting with developers, learning new technologies, and collaborating on interesting projects.
+
+<br/>
+
+<a href="https://portfolio-six-gilt-m971jn1qu5.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-
-
-
-<!-- ================= CONTRIBUTION GRAPH ================= -->
-
-## ⚡ Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-hazra&bg_color=0D1117&color=00D4FF&line=BD93F9&point=FF6B9D&area=true&hide_border=true&custom_title=My%20Contribution%20Graph"/>
-
-</div>
-
----
-
-<!-- ================= CONNECT ================= -->
-
-## 🌐 Let's Connect
-
-<div align="center">
-
+<a href="https://www.linkedin.com/in/rohit-hazra-3b9615317/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 <a href="https://github.com/rohit-hazra">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/rohit-hazra-3b9615317/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <br/><br/>
 
-💬 Open to learning, networking, and collaborating on exciting projects.
-
-### Thanks for visiting my profile!
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=BD93F9&center=true&vCenter=true&width=450&lines=Keep+Building.;Keep+Learning.;Keep+Growing." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+something+meaningful+together." alt="Footer Typing SVG"/>
 
 </div>
 
-<!-- ================= ANIMATED FOOTER ================= -->
+<!-- ===================== FOOTER ===================== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:2575FC,100:6A11CB&height=120&section=footer"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:6A5CFF&height=110&section=footer" />
