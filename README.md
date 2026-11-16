@@ -123,7 +123,7 @@ A personal website showcasing my technical skills, projects, and development jou
 ## EXPERIENCE
 
 **ITR – DRDO, Chandipur**  
-*Summer Research / Engineering Intern | May 2026 – July 2026*
+*Summer Research / Engineering Intern | Jun 2026 – July 2026*
 
 - Gained practical exposure to technical development and engineering workflows.
 - Worked in a professional research and engineering environment.
